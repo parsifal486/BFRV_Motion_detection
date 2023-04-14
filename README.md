@@ -1,0 +1,2 @@
+# BFRV_Motion_detection
+基于织物电阻值的运动检测串口通信以及GUI实现
